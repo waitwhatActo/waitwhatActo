@@ -2,7 +2,7 @@
 
 Take it simple and call me **Acto**.  
 :heart: [@Ridgeway+](https://github.com/ridgewayPlus/)  
-**Pronounce:** She/Her  
+**Pronounce:** They/Them
 **About Me:** 13 yo, Community Tech Support, Knows a *bit* coding.  
 **Coding:** js, html, css, md (if it counts)  
   
