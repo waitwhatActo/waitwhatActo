@@ -3,8 +3,8 @@
 Take it simple and call me **Acto**.  
 :heart: [@Ridgeway+](https://github.com/ridgewayPlus/)  
 **Pronounce:** They/Them  <br>
-**About Me:** 14 yo, Community Tech Support, Knows a *bit* coding.  
-**Coding:** js, html, css, md (if it counts)  
+**About Me:** 15 yo, Community Tech Support, Knows a *bit* coding.  
+**Coding:** js, html, css, c#
   
 Wanna have a talk? Talk to me on [Discord](https://discord.gg/chu6YcA)  
   
