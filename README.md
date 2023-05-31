@@ -1,4 +1,4 @@
-# Acto (cleverActon0126)
+# Acto
 
 Take it simple and call me **Acto**.  
 **Pronounce:** They/Them  <br>
