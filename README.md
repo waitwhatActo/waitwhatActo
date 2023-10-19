@@ -1,6 +1,6 @@
 # Acto
 
-Take it simple and call me **Acto**.  
+Wait what?
 **Pronounce:** They/Them  <br>
 **About Me:** 15 yo, Community Tech Support, Knows a *bit* coding.  
 **Coding:** js, html, css, c#
