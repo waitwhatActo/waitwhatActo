@@ -1,5 +1,5 @@
 # Hi, I am Acto.
-A random 15 yo Canadian who likes tech. </br>
+Just a random 17yo Canadian </br>
 
 ## I work with
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,cs,dotnet,postgres&perline=4&theme=dark)](https://skillicons.dev) </br>
